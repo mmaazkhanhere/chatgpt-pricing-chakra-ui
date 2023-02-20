@@ -7,10 +7,12 @@ export default function Headers() {
             <Heading as='b' fontSize='60px' color='white' textAlign='center' >
                 Introducing ChatGPT Plus
             </Heading >
-            <Text pt='32px' color='#FFFFFF' fontSize='22px' textAlign='center' pl='442px' pr='428px'>
+
+            <Text pt='32px' color='#FFFFFF' fontSize='22px' pl='455px' pr='455px' textAlign='center'>
                 We are launching a pilot subscription plan for ChatGPT, a converstaional AI that can chat with you, answer
                 follow-up questions, and challenge incorrect assumptions
             </Text>
+
         </Box >
     )
 }

@@ -9,6 +9,7 @@ export default function Features() {
     return (
         <Box>
             <Flex>
+
                 <HStack ml='544px'>
                     <Icon as={globalicon} />
                     <Text>Globally Available</Text>
