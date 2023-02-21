@@ -10,17 +10,17 @@ export default function Features() {
         <Box>
             <Flex>
 
-                <HStack ml='544px'>
+                <HStack>
                     <Icon as={globalicon} />
                     <Text>Globally Available</Text>
                 </HStack>
 
-                <HStack ml='116'>
+                <HStack>
                     <Icon as={bitcoinIcon} />
                     <Text>Can pay in cryptocurrency</Text>
                 </HStack>
 
-                <HStack ml='87px'>
+                <HStack>
                     <Icon as={payOnce} />
                     <Text>Pay once and for all</Text>
                 </HStack>
