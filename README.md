@@ -1,4 +1,4 @@
-ChatGPT Plus Pricing frontend using Chakra
+#ChatGPT Plus Pricing frontend using Chakra
 
 Install NextJs 13 in your directory using the command
         -npx create-next-app@latest --experimental-app
